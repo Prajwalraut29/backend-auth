@@ -1,7 +1,7 @@
 # Authentication and Authorization Backend
 
 This document outlines the setup for an authentication and authorization system using Node.js,
- Express, MongoDB, and JWT. It includes routes for user signup, login, logout,
+ ExpressJS , MongoDB, and JWT. It includes routes for user signup, login, logout,
   and middleware for token verification and refresh token handling.
 
 ---
